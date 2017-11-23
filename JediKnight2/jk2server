@@ -84,7 +84,7 @@ gamename="Jedi Knight II: Jedi Outcast"
 engine="idtech3"
 
 ## Service Name | https://github.com/GameServerManagers/LinuxGSM/wiki/Multiple-Servers
-servicename="jkded"
+servicename="jk2ded"
 
 #### Directories ####
 # Edit with care
